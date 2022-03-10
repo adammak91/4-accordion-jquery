@@ -12,7 +12,7 @@ body {
   max-width: 600px;
   margin: 50px auto;
   border-top: 6px solid #1e3768;
-  line-height: 1.6px;
+  line-height: 1.6;
   box-shadow: 5px 5px 10px 0px #a4bac1;
 }
 
